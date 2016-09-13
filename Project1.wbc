@@ -1,0 +1,61 @@
+[IDE]
+Designer Path=C:\Data\learn\EWB\TL27ButtonComboBox
+Image Path=C:\Data\learn\EWB\TL27ButtonComboBox
+File Path=C:\Users\Brian\Documents\Elevate Web Builder 2\Projects
+Find Path=C:\Users\Brian\Documents\Elevate Web Builder 2\Projects
+Request URL=http://localhost
+Search Path=C:\Data\Logical27\EWB\CAMS\custom_controls
+Output Path=C:\CAMS_WEBSERVER
+Open Windows=0;Welcome;0;0##4;ewb2|Elevate Web Builder 2 Manual|C:\Program Files (x86)\Elevate Web Builder 2\help\ewb2.wbh;1;0##2;L27ButtonComboBox_Unit1|C:\Data\learn\EWB\TL27ButtonComboBox\L27ButtonComboBox_Unit1.wbs|0|54|43;2;0##2;Demo|C:\Downloads\ElevateSoftware\Other Stuff\TL27ButtonComboBox\Demo.wbs|1|85|45;3;1
+Object Panel Width=321
+Properties Splitter=134
+Events Splitter=156
+Collection Editor Panel Height=253
+Right Panel Width=280
+DataSet Manager Panel Height=276
+Project Manager Panel Visible=1
+DataSet Manager Panel Visible=1
+Messages Panel Height=181
+Messages Panel Visible=0
+Web Server=Internal
+Last Selected Color=-16777216
+Saved Color 0=16777215
+Saved Color 1=16777215
+Saved Color 2=16777215
+Saved Color 3=16777215
+Saved Color 4=16777215
+Saved Color 5=16777215
+Saved Color 6=16777215
+Saved Color 7=16777215
+Saved Color 8=16777215
+Saved Color 9=16777215
+Saved Color 10=16777215
+Database Manager Panel Height=276
+Database Manager Panel Visible=1
+
+[Project]
+Icon=
+Included External=
+
+[Compilation]
+Search Paths=
+Output Path=output
+Show Hints=1
+Show Warnings=1
+Compress Output=0
+Default Icon Font=C:\Program Files (x86)\Elevate Web Builder 2\fonts\EWBIcons.otf
+Embed Default Icon Font=1
+
+[Deployment]
+Deployment Method=0
+Deploy On Run=0
+Copy Destination Path=
+FTP Server=
+FTP Port=21
+FTP User Name=
+FTP Password=
+FTP Destination Path=
+
+[Run]
+Run Parameters=
+
